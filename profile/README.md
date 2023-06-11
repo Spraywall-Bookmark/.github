@@ -1,6 +1,6 @@
 <h1 style="font-weight: bold" >Spraywall Bookmark</h1>
 
-<p>Spraywall Bookmark is an IOS and Android application designed to enhance your climbing experience. It allows you to bookmark routes on a virtual spraywall, track your progress, and explore routes set by other climbers at different gyms.</p>
+<p>Spraywall Bookmark is an Android and iOS application designed to enhance your climbing experience. It allows you to bookmark routes on a virtual spraywall, track your progress, and explore routes set by other climbers at different gyms.</p>
 
 ## Features
 - Bookmark routes: With Spraywall Bookmark, you can upload an image of a spraywall from your gym, house or climbing area. You can then set routes on the spraywall image by drawing lines or shapes over the holds or grips you want to bookmark. This feature allows you to easily keep track of the routes you have climbed or want to climb.
