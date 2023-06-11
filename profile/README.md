@@ -1,6 +1,6 @@
 <h1 style="font-weight: bold" >Spraywall Bookmark</h1>
 
-<p>Spraywall Bookmark is a mobile application designed to enhance your climbing experience. It allows you to bookmark routes on a virtual spraywall, track your progress, and explore routes set by other climbers at different gyms.</p>
+<p>Spraywall Bookmark is an IOS and Android application designed to enhance your climbing experience. It allows you to bookmark routes on a virtual spraywall, track your progress, and explore routes set by other climbers at different gyms.</p>
 
 ## Features
 - Bookmark routes: With Spraywall Bookmark, you can upload an image of a spraywall from your gym, house or climbing area. You can then set routes on the spraywall image by drawing lines or shapes over the holds or grips you want to bookmark. This feature allows you to easily keep track of the routes you have climbed or want to climb.
@@ -17,6 +17,10 @@ Spraywall Bookmark is built using the following technologies:
 - Database: MongoDB
 
 ## Contact
-If you have any questions or suggestions regarding Spraywall Bookmark, please feel free to contact me at Discord (Álvaro#9410) or by email: (Not enabled).
+If you have any questions or suggestions regarding Spraywall Bookmark, please feel free to contact me on Discord (Álvaro#9410) or by email: (no email yet).
+
+## IMPORTANT
+Spraywall Bookmark is not yet released. It is expected to be fully released in finals of July 2023.
+If you would like to test and experiment with the app you can send me a private message on Discord (Álvaro#9410) and i will send you the .APK file (only for Android users)
 
 Happy climbing!
