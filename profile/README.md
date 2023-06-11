@@ -21,6 +21,6 @@ If you have any questions or suggestions regarding Spraywall Bookmark, please fe
 
 ## IMPORTANT
 Spraywall Bookmark is not yet released. It is expected to be fully released in finals of July 2023.
-If you would like to test and experiment with the app you can send me a private message on Discord (Álvaro#9410) and i will send you the .APK file (only for Android users)
+If you would like to test and experiment with the app you can send me a private message on Discord (Álvaro#9410) and I will send you the .APK file (only for Android users)
 
 Happy climbing!
