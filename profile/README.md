@@ -17,10 +17,10 @@ Spraywall Bookmark is built using the following technologies:
 - Database: MongoDB
 
 ## Contact
-If you have any questions or suggestions regarding Spraywall Bookmark, please feel free to contact me on Discord (Álvaro#9410) or by email: (no email yet).
+If you have any questions or suggestions regarding Spraywall Bookmark, please feel free to contact me on Discord (@newalvaro9) or by email: (no email yet).
 
 ## IMPORTANT
 Spraywall Bookmark is not yet released. It is expected to be fully released in finals of July 2023.
-If you would like to test and experiment with the app you can send me a private message on Discord (Álvaro#9410) and I will send you the .APK file (only for Android users)
+If you would like to test and experiment with the app you can send me a private message on Discord (@newalvaro9) and I will send you the .APK file (only for Android users)
 
 Happy climbing!
